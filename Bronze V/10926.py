@@ -1,3 +1,3 @@
 A = input()
-A = f"{A}?!!"
+A = f"{A}??!"
 print(A)
